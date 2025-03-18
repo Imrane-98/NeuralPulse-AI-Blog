@@ -1,4 +1,4 @@
-<img src="URL_IMAGE" width="600" alt="AI visualization">
+<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485" width="600" alt="AI Neural Network Visualization">
 
 # NeuralPulse - AI Blog
 
